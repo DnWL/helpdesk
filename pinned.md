@@ -13,6 +13,10 @@ Please upload music in the group, not the chatroom, and not the bot.
 If you willing to support the project, [become a patron](https://patreon.com/rominimal)!  
 Even $1 matters!
 
+## roboard
+
+[Try out convenient dashboard for browsing uploads in desktop browser](https://romnml.rv7.ru).
+
 ## Download accounting
 
 To be able to download – be sure you also shared something anybody could appreciate with a download.
@@ -38,9 +42,6 @@ We kindly requesting you to share music in 320 kbps MP3, or any lossless format 
 Let's try to keep it clean and strive to upload complete releases (ideally, with the links to the info). Or just bunches of tracks related to a certain artist.
 
 ## Groups sattelites
-
-Try out convenient dashboard for browsing uploads in desktop browser.  
-We call it [roboard](https://romnml.rv7.ru).
 
 Check the [snippets group](https://t.me/joinchat/ATDwrEYkooRWtBoXRRFp8Q) (45 second cuts of all the uploads in this group).  
 You'll love the digging on-the-go!
