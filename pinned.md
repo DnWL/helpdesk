@@ -13,13 +13,29 @@ Please upload music in the group, not the chatroom, and not the bot.
 If you willing to support the project, [become a patron](https://patreon.com/rominimal)!  
 Even $1 matters!
 
+## Download accounting
+
+To be able to download – be sure you also shared something anybody could appreciate with a download.
+
+**1 download** of your file gives you **1 chatle**.  
+**1 download** by you today takes **0.93 chatles**.
+
+Your current balance is available in the *Stats* section of [@romnml_bot](https://t.me/romnml_bot) or in [roboard](https://romnml.rv7.ru).
+
+## General rules
+
 **Please, think twice (or more) before uploading anything. Do not upload just anything random. People who're uploading weird stuff (badly tagged files, bad transcodes, not relevant to rominimal) might be banned forever. We all love music here and treating it with respect.**
+
+When one's uploaded music that is irrelevant to Romanian wave of minimal, a transcode, or a track from DJ mix, they might be fined.  
+Users who's balance is over **500 chatles** got fined for **100 chatles** for a track.  
+Users who's balance is over **100 chatles** got fined for **10 chatles** for a track.  
+Users who's balance is under **100 chatles** got fined for **1 chatle** for a track.
 
 We kindly requesting you to share music in 320 kbps MP3, or any lossless format (WAV/FLAC/AIFF), 44100 hz or above.
 
 Let's try to keep it clean and strive to upload complete releases (ideally, with the links to the info). Or just bunches of tracks related to a certain artist.
 
-## Sattelites
+## Groups sattelites
 
 Try out convenient dashboard for browsing uploads in desktop browser.  
 We call it [roboard](https://romnml.rv7.ru).
@@ -29,15 +45,6 @@ You'll love the digging on-the-go!
 
 **Do not upload transcodes**  
 If you not sure whether your upload is a transcode, [join this group](https://t.me/joinchat/ATDwrFDxDvSammrC82ihrg).
-
-## Download accounting
-
-To be able to download – be sure you also shared something anybody could appreciate with a download.
-
-**1 download** of your file gives you **1 chatle**.  
-**1 download** by you today takes **0.93 chatles**.
-
-Your current balance is available in the *Stats* section of [@romnml_bot](https://t.me/romnml_bot) or in [roboard](https://romnml.rv7.ru).
 
 ## Tutorial videos  
 [Check out this channel](https://t.me/joinchat/AAAAAFdd1a1IiM9jHyWDsw)
