@@ -22,6 +22,8 @@ To be able to download – be sure you also shared something anybody could appre
 
 Your current balance is available in the *Stats* section of [@romnml_bot](https://t.me/romnml_bot) or in [roboard](https://romnml.rv7.ru).
 
+In order to keep community members active, it is necessary to maintain a good balance of chatles. Members having less than **10 chatles** within **30 days** are being excluded.
+
 ## General rules
 
 **Please, think twice (or more) before uploading anything. Do not upload just anything random. People who're uploading weird stuff (badly tagged files, bad transcodes, not relevant to rominimal) might be banned forever. We all love music here and treating it with respect.**
