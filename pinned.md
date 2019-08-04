@@ -35,9 +35,9 @@ In order to keep community members active, it is necessary to maintain a good ba
 
 When one's uploaded music that is irrelevant to Romanian wave of minimal, a transcode, track from DJ mix or DJ mix itself, they might be fined. If you spotted that you accedentially uploaded one of the listed and labeled it in [roboard](https://romnml.rv7.ru) yourself, you won't be fined.
 
-Users who's balance is over **500 chatles** got fined for **100 chatles** for a track.  
-Users who's balance is over **100 chatles** got fined for **10 chatles** for a track.  
-Users who's balance is under **100 chatles** got fined for **1 chatle** for a track.
+Users whose balance is over **500 chatles** got fined for **100 chatles** for a track.  
+Users whose balance is over **100 chatles** got fined for **10 chatles** for a track.  
+Users whose balance is under **100 chatles** got fined for **1 chatle** for a track.
 
 We kindly requesting you to share music in 320 kbps MP3, or any lossless format (WAV/FLAC/AIFF), 44100 hz or above.
 
