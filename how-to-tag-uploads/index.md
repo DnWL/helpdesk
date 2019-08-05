@@ -97,7 +97,7 @@ If someone edits your poorly tagged upload, it cost you **0.1 chatles**.
 So please keep track on your poorly tagged uploads.
 [If you see something here please fix it!](https://romnml.rv7.ru/?myUploads=true&badTagged=true)
 
-##Examples of bad tagging
+## Examples of bad tagging
 
 Artist: **Pedro_Goya_&_Magazino**  
 Should be: **Pedro Goya & Magazino**  
