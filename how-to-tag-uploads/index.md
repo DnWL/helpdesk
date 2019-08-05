@@ -99,33 +99,33 @@ So please keep track on your poorly tagged uploads.
 
 ##Examples of bad tagging
 
-Artist: **Pedro_Goya_&_Magazino**
-Should be: **Pedro Goya & Magazino**
+Artist: **Pedro_Goya_&_Magazino**  
+Should be: **Pedro Goya & Magazino**  
 What's wrong: words are separated with "_" and not " "
 
-Track title: **barut- lecia vi v2**
-Should be: **Lecia Vi V2**
+Track title: **barut- lecia vi v2**  
+Should be: **Lecia Vi V2**  
 What's wrong: Barut is artist name and shouldn't be in title field
 
-Track title: **Unkempt [FPR006]**
-Should be: **Unkempt**
+Track title: **Unkempt [FPR006]**  
+Should be: **Unkempt**  
 What's wrong: Catalog number in track title
 
-Track title: **B2 Oops I Did it Again**
-Should be: **Oops I Did it Again**
+Track title: **B2 Oops I Did it Again**  
+Should be: **Oops I Did it Again**  
 What's wrong: Track number goes with track title
 
-Filename: Britney Spears - A1 Untitled [HELL666].wav
-Track title: **Untitled**
-Should be: **A1** or **A1 Untitled**
+Filename: Britney Spears - A1 Untitled [HELL666].wav  
+Track title: **Untitled**  
+Should be: **A1** or **A1 Untitled**  
 What's wrong: Side is known, so better to keep it
 
-Album: **HOW004**, Cat #: **Empty**
-Should be: Album: **HOW004** or empty, Cat #: **HOW004**
+Album: **HOW004**, Cat #: **Empty**  
+Should be: Album: **HOW004** or empty, Cat #: **HOW004**  
 What's wrong: Catalog number is in the wrong field
 
-Track title: **Ricardo Villalobos - Fizheuer Zieheuer (Original mix)**
-Should be: **Fizheuer Zieheuer**
+Track title: **Ricardo Villalobos - Fizheuer Zieheuer (Original mix)**  
+Should be: **Fizheuer Zieheuer**  
 What's wrong: artist name and extraneous information is in the track field
 
 # Thank you for keeping it clean!
