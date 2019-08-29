@@ -25,6 +25,8 @@ To be able to download – be sure you also shared something anybody could appre
 **1 download** of your file gives you **1 chatle**.  
 **1 download** by you today takes **0.93 chatles**.
 
+If you uploaded a track that haven't been downloaded by anybody, you get 0 chatles for it.
+
 Your current balance is available in the *Stats* section of [@romnml_bot](https://t.me/romnml_bot) or in [roboard](https://romnml.rv7.ru).
 
 In order to keep community members active, it is necessary to maintain a good balance of chatles. Members having less than **10 chatles** within **30 days** are being excluded.
